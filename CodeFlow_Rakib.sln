@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFlow_Rakib", "CodeFlow_Rakib.csproj", "{3A0FC4E0-028A-4779-B26F-94D6B1D31F34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A0FC4E0-028A-4779-B26F-94D6B1D31F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0FC4E0-028A-4779-B26F-94D6B1D31F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0FC4E0-028A-4779-B26F-94D6B1D31F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0FC4E0-028A-4779-B26F-94D6B1D31F34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED39F3EF-1876-4623-BDB0-3E06D860A678}
+	EndGlobalSection
+EndGlobal
